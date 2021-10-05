@@ -36,5 +36,3 @@ function draw(){
     umbrella.display();
     drawSprites();
 }   
-
-
